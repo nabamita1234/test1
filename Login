@@ -1,0 +1,2 @@
+<b> Username : </b><input type="text" id="txtUsername"></input>
+<b> Password : </b><input type="password" id="txtPwd"></input>
